@@ -25,9 +25,9 @@ I am a Backend Software Engineer with experience building, testing, and supporti
 
 ## 📊 GitHub Stats
 
-[![Kaung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kztJames01&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaung's GitHub stats](https://github-stats-extended.vercel.app/api?username=kztJames01&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kztJames01&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kztJames01&layout=compact&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kztJames01/kztJames01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

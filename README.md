@@ -4,7 +4,7 @@ I am a Backend Software Engineer with experience building, testing, and supporti
 ##  About Me
 *  I'm currently working as a Software Development Intern at Profound Ventures, helping build an AI-powered Revenue Cycle Management platform for diagnostic laboratories.[cite: 2]
 *  I contributed in  `silo-drift-cli`, an open-source npm package for LLM drift monitoring.
-*  I recently published another open-source npm package for deterministic memory log for agentic coding sessions. Upgrading now for tickets and more languages.
+*  I recently published another open-source npm package for deterministic memory log for agentic coding sessions. Upgrading now for tickets and more languages. `memo-log`
 *  I have experience building full-stack platforms using React Native, TypeScript, and NestJS, including a production-style authentication system.
 *  How to reach me: alphakzt99@gmail.com
 

@@ -7,7 +7,7 @@ I am a Backend Software Engineer with experience building, testing, and supporti
 *  I recently published another open-source npm package for deterministic memory log for agentic coding sessions. Upgrading now for tickets and more languages. `memo-log`
 *  How to reach me: alphakzt99@gmail.com
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 **Backend & Infrastructure:**
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,7 @@ I am a Backend Software Engineer with experience building, testing, and supporti
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://github.com/kztJames01">

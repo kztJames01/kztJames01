@@ -1,11 +1,11 @@
-## Hi there I'm Kaung Zaw Thant 👋
+## Hi there I'm Kaung Zaw Thant 
 
 I am a Backend Software Engineer with experience building, testing, and supporting web applications and developer tools using Python, TypeScript, and JavaScript.
-## 🚀 About Me
-* 🔭 I'm currently working as a Software Development Intern at Profound Ventures, helping build an AI-powered Revenue Cycle Management platform for diagnostic laboratories.[cite: 2]
-* 🌱 I recently published `silo-drift-cli`, an open-source npm package for LLM drift monitoring.
-* 💼 I have experience building full-stack platforms using React Native, TypeScript, and NestJS, including a production-style authentication system.
-* 📫 How to reach me: alphakzt99@gmail.com[cite: 1]
+##  About Me
+*  I'm currently working as a Software Development Intern at Profound Ventures, helping build an AI-powered Revenue Cycle Management platform for diagnostic laboratories.[cite: 2]
+*  I recently published `silo-drift-cli`, an open-source npm package for LLM drift monitoring.
+*  I have experience building full-stack platforms using React Native, TypeScript, and NestJS, including a production-style authentication system.
+*  How to reach me: alphakzt99@gmail.com[cite: 1]
 
 ## 🛠️ Languages & Tools
 

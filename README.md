@@ -3,9 +3,10 @@
 I am a Backend Software Engineer with experience building, testing, and supporting web applications and developer tools using Python, TypeScript, and JavaScript.
 ##  About Me
 *  I'm currently working as a Software Development Intern at Profound Ventures, helping build an AI-powered Revenue Cycle Management platform for diagnostic laboratories.[cite: 2]
-*  I recently published `silo-drift-cli`, an open-source npm package for LLM drift monitoring.
+*  I contributed in  `silo-drift-cli`, an open-source npm package for LLM drift monitoring.
+*  I recently published another open-source npm package for deterministic memory log for agentic coding sessions. Upgrading now for tickets and more languages.
 *  I have experience building full-stack platforms using React Native, TypeScript, and NestJS, including a production-style authentication system.
-*  How to reach me: alphakzt99@gmail.com[cite: 1]
+*  How to reach me: alphakzt99@gmail.com
 
 ## 🛠️ Languages & Tools
 
@@ -33,17 +34,4 @@ I am a Backend Software Engineer with experience building, testing, and supporti
     <img height="170" src="https://streak-stats.demolab.com?user=kztJames01&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub streak" />
   </a>
 </p>
-<!--
-**kztJames01/kztJames01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
